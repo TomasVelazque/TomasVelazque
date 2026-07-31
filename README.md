@@ -1,7 +1,8 @@
 ## TOMAS VELAZQUE CORNEJO 👾
 
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCCR0Vzys1qoDlDNVsMc1X96xo7ursdgI0x0aOoF9TRjP-1vKfcYV_rQ&s=10)
-
+<p align="center">
+  <img src="https://i.ibb.co/Ps02ktg4/banner.jpg" alt="Tomas Banner" width="100%" />
+</p>
 
 #About Me: 
 I'm a passionate **System Analyst & Software Developer** dedicated to crafting efficient code and exploring new tech stacks.
