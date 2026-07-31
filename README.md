@@ -1,6 +1,6 @@
 ## TOMAS VELAZQUE CORNEJO 👾
 
-![Banner](https://i.ibb.co/n8r97DGs/Gemini-Generated-Image-t2ncb3t2ncb3t2nc.jpg)
+![Banner](https://i.ibb.co/1fG6ZRxB/Fondo-Xeno-Git.png)
 
 #About Me: 
 I'm a passionate **System Analyst & Software Developer** dedicated to crafting efficient code and exploring new tech stacks.
