@@ -1,6 +1,6 @@
 ## TOMAS VELAZQUE CORNEJO 👾
 
-![Banner](https://i.imgur.com/oSeKEHG.jpeg)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCCR0Vzys1qoDlDNVsMc1X96xo7ursdgI0x0aOoF9TRjP-1vKfcYV_rQ&s=10)
 
 
 #About Me: 
